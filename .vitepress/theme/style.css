@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+  /* Define your exact Figma brand colors here! */
+  --color-petsy-green: #2d9c6c;
+  --color-petsy-dark: #0e3a58;
+  --color-petsy-light: #f2f8f4;
+}
+
+/* Optional: Smooth out the font rendering */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
