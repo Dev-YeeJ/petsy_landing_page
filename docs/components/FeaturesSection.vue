@@ -1,6 +1,6 @@
 <template>
   <!-- CHANGED: Removed lg:h-screen and overflow-hidden. Adjusted py to give equal top/bottom breathing room -->
-  <section id="features" ref="sectionRef" class="min-h-screen w-full bg-white font-sans text-[#0a3855] flex flex-col justify-center py-20 lg:py-28 scroll-mt-0">
+  <section id="features" ref="sectionRef" class="w-full bg-white font-sans text-[#0a3855] flex flex-col justify-center py-20 lg:py-24 scroll-mt-0">
     <div class="max-w-7xl w-full mx-auto px-4 md:px-12 flex-1 flex flex-col justify-center">
       
       <!-- Section Header -->
